@@ -1,0 +1,23 @@
+.contenedor{
+  width: 923px;
+  height: 473px;
+  background-color: salmon;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+  margin: 10px;
+}
+.numeros{
+  background-color: #99f;
+  height: 220px;
+  width: 220px;
+  margin: 5px;
+  color: #fff;
+  font-size: 90px;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
+strong{
+  padding:0 42%;
+}
